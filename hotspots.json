@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Eiffeltoren",
+    "description": "Bekende toren in Parijs",
+    "lat": 48.8584,
+    "lon": 2.2945
+  },
+  {
+    "id": 2,
+    "title": "Louvre",
+    "description": "Museum",
+    "lat": 48.8606,
+    "lon": 2.3376
+  },
+  {
+    "id": 3,
+    "title": "Notre-Dame",
+    "description": "Kathedraal",
+    "lat": 48.8530,
+    "lon": 2.3499
+  }
+]
