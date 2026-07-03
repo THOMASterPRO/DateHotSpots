@@ -3,6 +3,7 @@
     "id": 1,
     "title": "Dutch Pinball Museum",
     "description": "Pinball museum in rotterdam",
+    "type": "activiteit",
     "lat": 51.9080291,
     "lon": 4.4432195
   },
@@ -10,6 +11,7 @@
     "id": 2,
     "title": "Historische Tuin Schoonoord",
     "description": "Historische tuin in Rotterdam",
+    "type": "wandeling",
     "lat": 51.9086472,
     "lon": 4.4614382
   },
@@ -17,7 +19,16 @@
     "id": 3,
     "title": "Kralingse Plas",
     "description": "Mooi wandelpark in Rotterdam",
+    "type": "wandeling",
     "lat": 51.9364836,
     "lon": 4.5029829
+  }
+  {
+    "id": 4,
+    "title": "Escher in het Paleis",
+    "description": "Museum over Escher in Den Haag",
+    "type": "museum",
+    "lat": 52.0834729,
+    "lon": 4.3086674
   }
 ]
