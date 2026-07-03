@@ -1,23 +1,23 @@
 [
   {
     "id": 1,
-    "title": "Eiffeltoren",
-    "description": "Bekende toren in Parijs",
-    "lat": 48.8584,
-    "lon": 2.2945
+    "title": "Dutch Pinball Museum",
+    "description": "Pinball museum in rotterdam",
+    "lat": 51.9080291,
+    "lon": 4.1604657
   },
   {
     "id": 2,
-    "title": "Louvre",
-    "description": "Museum",
-    "lat": 48.8606,
-    "lon": 2.3376
+    "title": "Historische Tuin Schoonoord",
+    "description": "Historische tuin in Rotterdam",
+    "lat": 51.9086472,
+    "lon": 4.4614382
   },
   {
     "id": 3,
     "title": "Notre-Dame",
     "description": "Kathedraal",
-    "lat": 48.8530,
-    "lon": 2.3499
+    "lat": 51.9364836,
+    "lon": 4.5029829
   }
 ]
