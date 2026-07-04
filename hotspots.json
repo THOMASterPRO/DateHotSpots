@@ -30,5 +30,45 @@
     "type": "museum",
     "lat": 52.0834729,
     "lon": 4.3047775
+  },
+  {
+    "id": 5,
+    "title": "Disc golf Roel Langerakpark",
+    "description": "Disc golf in Rotterdam",
+    "type": "activiteit",
+    "lat": 51.922699,
+    "lon": 4.4371091
+  },
+  {
+    "id": 6,
+    "title": "Nationaal Videogame Museum",
+    "description": "Video game museum/arcade",
+    "type": "activiteit",
+    "lat": 52.0629877,
+    "lon": 4.4899504
+  },
+  {
+    "id": 7,
+    "title": "GlowGolf Schiedam",
+    "description": "Glowgolf naast station schiedam centrum",
+    "type": "activiteit",
+    "lat": 51.9235932,
+    "lon": 4.4053573
+  },
+  {
+    "id": 8,
+    "title": "Haagsche Broeder Brouwerij",
+    "description": "Bar van brouwerij De Haagsche Broeders, met eigen gebrouwen bieren",
+    "type": "Food/Drinks",
+    "lat": 52.0795531,
+    "lon": 4.3075504
+  },
+  {
+    "id": 9,
+    "title": "Sojubar Rotterdam Markthal 소주",
+    "description": "Sojubar met heerlijke korean chicken.",
+    "type": "Food/Drinks",
+    "lat": 51.9204343,
+    "lon": 4.486664
   }
 ]
