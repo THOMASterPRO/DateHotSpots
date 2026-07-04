@@ -70,5 +70,53 @@
     "type": "Food/Drinks",
     "lat": 51.9204343,
     "lon": 4.486664
+  },
+  {
+    "id": 10,
+    "title": "Sojubar Rotterdam Markthal 소주",
+    "description": "Sojubar met heerlijke korean chicken.",
+    "type": "Food/Drinks",
+    "lat": 51.9204343,
+    "lon": 4.486664
+  },
+  {
+    "id": 11,
+    "title": "Diergaarde Blijdorp",
+    "description": "Een heel leuke dierentuin in Rotterdam",
+    "type": "activiteit",
+    "lat": 51.928158,
+    "lon": 4.4414457
+  },
+  {
+    "id": 12,
+    "title": "Dikke Mic",
+    "description": "Een heel gezellige karaokebar",
+    "type": "activiteit",
+    "lat": 51.9292193,
+    "lon": 4.4769005
+  },
+  {
+    "id": 13,
+    "title": "Mauritshuis",
+    "description": "Kunstmuseum in Den haag",
+    "type": "Museum",
+    "lat": 52.0804322,
+    "lon": 4.3117345
+  },
+  {
+    "id": 14,
+    "title": "Natuurhistorisch Museum Rotterdam",
+    "description": "Natuurhistorisch Museum Rotterdam",
+    "type": "Museum",
+    "lat": 51.91079,
+    "lon": 4.4699697
+  },
+  {
+    "id": 15,
+    "title": "Pannenkoekenboot Rotterdam",
+    "description": "Pannenkoekenboot",
+    "type": "Food/Drinks",
+    "lat": 51.9047888,
+    "lon": 4.4631466
   }
 ]
